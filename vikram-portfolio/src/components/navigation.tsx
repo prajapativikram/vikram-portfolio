@@ -35,7 +35,7 @@ export function Navigation() {
                 key={item.href}
                 href={item.href}
                 className={`text-sm font-medium transition-colors hover:text-purple-400 ${
-                  index === 1 ? "text-purple-400" : "text-gray-300"
+                  index === -1 ? "text-purple-400" : "text-gray-300"
                 }`}
               >
                 {item.label}
@@ -78,3 +78,4 @@ export function Navigation() {
     </nav>
   )
 }
+
