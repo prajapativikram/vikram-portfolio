@@ -21,7 +21,7 @@ export function About() {
           </div>
 
           {/* Contact Information Grid - All in one row */}
-          <div className="grid grid-cols-1 md:grid-cols-5 gap-8 text-center md:text-left">
+          <div className="flex flex-wrap justify-evenly gap-8 text-center md:text-left">
             {/* Contact */}
             <div>
               <h3 className="text-slate-900 font-semibold mb-2">Contact</h3>
@@ -72,4 +72,5 @@ export function About() {
     </section>
   )
 }
+
 
