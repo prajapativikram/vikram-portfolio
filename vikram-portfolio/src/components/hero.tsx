@@ -7,8 +7,8 @@ export function Hero() {
   const handleDownloadCV = () => {
     // Create a link element and trigger download
     const link = document.createElement("a")
-    link.href = "/cv/Vikram_Kumar_CV.pdf"
-    link.download = "Vikram_Kumar_CV.pdf"
+    link.href = "/cv/Vikram_Kumar_Resume_CSE.pdf"
+    link.download = "/cv/Vikram_Kumar_Resume_CSE.pdf"
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)
@@ -72,3 +72,4 @@ export function Hero() {
     </section>
   )
 }
+
