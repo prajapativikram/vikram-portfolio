@@ -27,7 +27,7 @@ export function About() {
               <h3 className="text-slate-900 font-semibold mb-2">Contact</h3>
               <div className="flex items-center justify-center md:justify-start gap-2 text-gray-600">
                 <Mail className="w-4 h-4 flex-shrink-0" />
-                <span className="text-sm break-all">vikramkumarbcrec2027@gmail.com</span>
+                <span className="text-sm whitespace-nowrap">vikramkumarbcre2027@gmail.com</span>
               </div>
             </div>
 
@@ -72,5 +72,3 @@ export function About() {
     </section>
   )
 }
-
-
