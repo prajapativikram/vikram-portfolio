@@ -29,7 +29,7 @@ export function SocialLinks() {
     },
     {
       icon: Mail,
-      href: "mailto:vikramgangjori@gmail.com",
+      href: "mailto:vikramkumarbcrec2027@gmail.com",
       label: "Email",
       color: "hover:bg-red-500",
     },
@@ -55,3 +55,4 @@ export function SocialLinks() {
     </div>
   )
 }
+
