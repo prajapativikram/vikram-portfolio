@@ -9,7 +9,7 @@ export function Projects() {
       title: "ChatGPT Clone",
       description:
         "AI-powered conversational web application built with OpenAI API, featuring real-time chat capabilities and modern UI design.",
-      technologies: ["React", "Node.js", "OpenAI API", "JavaScript"],
+      technologies: ["React", "Node.js", "Gemini API", "JavaScript"],
       status: "Completed",
       bgColor: "bg-gradient-to-br from-blue-500 to-purple-600",
       icon: "🤖",
@@ -128,3 +128,4 @@ export function Projects() {
     </section>
   )
 }
+
