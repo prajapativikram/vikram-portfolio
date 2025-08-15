@@ -6,10 +6,11 @@ export function Footer() {
           <p className="text-gray-400 text-sm">
             © 2024 <span className="text-white font-semibold">Vikram Kumar</span>. All rights reserved.
           </p>
-          <p className="text-gray-500 text-xs mt-2">Designed & Developed with ❤️ by Ayush Raj</p>
+          <p className="text-gray-500 text-xs mt-2">Designed & Developed with ❤️ by Vikram Kumar</p>
         </div>
       </div>
     </footer>
   )
 }
+
 
