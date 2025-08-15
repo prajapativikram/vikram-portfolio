@@ -32,7 +32,7 @@ export function Contact() {
                     </div>
                     <div>
                       <p className="text-sm text-gray-500">Email</p>
-                      <p className="text-slate-900 font-medium">vikramgangjori@gmail.com</p>
+                      <p className="text-slate-900 font-medium">vikramkumarbcrec2027@gmail.com</p>
                     </div>
                   </div>
 
@@ -105,3 +105,4 @@ export function Contact() {
     </section>
   )
 }
+
