@@ -4,9 +4,10 @@ Welcome to my **Portfolio Website** repository!
 This project showcases my skills, projects, and achievements in a clean and modern design. 🚀  
 
 ## 📸 Screenshots  
-![](./screenshots/home.png)
+![image alt](https://github.com/prajapativikram/vikram-portfolio/blob/0b315967383ceb578aa124d3a778af76b413976c/vikram-portfolio/screenshots/home.png)
 
 
+![image alt](https://github.com/prajapativikram/vikram-portfolio/blob/7da71b5fa723a541bc38ea894a67fd0ca88d87c4/vikram-portfolio/screenshots/contact.png)
 
 
 ---
