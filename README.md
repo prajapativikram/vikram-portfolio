@@ -4,10 +4,9 @@ Welcome to my **Portfolio Website** repository!
 This project showcases my skills, projects, and achievements in a clean and modern design. 🚀  
 
 ## 📸 Screenshots  
+![](./screenshots/home.png)
 
-| Home Page | Projects Page | Contact Page |
-|-----------|---------------|--------------|
-| ![](./screenshots/home.png) | ![](./screenshots/projects.png) | ![](./screenshots/contact.png) |
+
 
 
 ---
@@ -25,7 +24,7 @@ This project showcases my skills, projects, and achievements in a clean and mode
 ## 🛠️ Tech Stack  
 
 - **Frontend:** HTML5, CSS3, JavaScript  
-- **Frameworks/Libraries:** [React.js / Next.js]   
+- **Frameworks/Libraries:** Next.js   
 - **Styling:** Tailwind CSS / Bootstrap / Custom CSS  
 - **Deployment:** GitHub Pages / Vercel  
 
@@ -37,10 +36,10 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/prajapativikram/portfolio-website.git
+git clone https://github.com/prajapativikram/vikram-portfolio.git
 
 # Navigate to the project folder
-cd portfolio-website
+cd vikram-portfolio
 
 # Open with Live Server (browser)
 https://vikram-portfolio-phi.vercel.app/
